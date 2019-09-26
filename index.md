@@ -24,7 +24,7 @@
 			这是一个新的博客，希望大家支持
 			<!-- open -->
 			<br>
-			<a href="https://video-m3u8.github.io/article/20190926144616.md">展开</a>
+			<a href="https://video-m3u8.github.io/20190926144616.md">展开</a>
 			</p>
 
 	      </section>
