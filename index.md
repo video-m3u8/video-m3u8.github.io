@@ -1,8 +1,4 @@
 <html>
-	<head>
-		<title>测试v0.0.0.1</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	</head>
 	<body>
 		<div id="header">
 	        <nav>
