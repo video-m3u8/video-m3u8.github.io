@@ -2,8 +2,8 @@
 	<body>
 		<div id="header">
 	        <nav>
-	          <li class="fork"><a href="https://video-m3u8.github.io">首页</a></li>&nbsp;&nbsp;
-	          <li class="fork"><a href="https://video-m3u8.github.io">博客</a></li>&nbsp;&nbsp;
+	          <li class="fork" style="margin-right: 2px"><a href="https://video-m3u8.github.io">首页</a></li>
+	          <li class="fork"><a href="https://video-m3u8.github.io">博客</a></li>
 	        </nav>
 	     </div>
 		<!-- end header -->
