@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>测试v0.0.0.1</title>
